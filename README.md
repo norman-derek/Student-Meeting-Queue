@@ -21,8 +21,7 @@
 
 
 3) Program runs and compiles but I calculated different results by hand\
-    which are shown. My results align more with other students results\ 
-    that were discussed in the slack.
+    which are shown. My results align more with other students results that were discussed in the slack.
 
 4)  Zybooks: 3.4 List abstract data type (ADT)\
     Zybooks: 3.2 Queue abstract data type (ADT)\
