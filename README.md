@@ -31,8 +31,8 @@
 5)  To compile: \
         make all \
     To Run: \
-        ./assignment5.out fileName.txt \
+        ./assignment5.out fileName.txt 
 
     *note fileName is not actually the name of the file, replace with your files name
 
-6) I am using a late day for this assignment! \
+6) I am using a late day for this assignment! 
